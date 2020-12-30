@@ -1,21 +1,28 @@
 {
     "description": "When determining equilibrium constants of multi-substrate / multi-product reactions, the concentrations may affect the uncertainty of the result.", 
-    "license": "https://creativecommons.org/licenses/by/4.0/", 
     "title": "Robert's Farm of Ideas: 1 -- error propagation in equilibrium constants", 
-    "upload_type": "publication", 
-    "access_right": "open", 
+    "license": {
+        "id": "CC-BY-4.0"
+    }, 
+    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/1", 
+    "keywords": [
+        "error propagation",
+        "uncertainty",
+        "equilibrium constant",
+        "measurement",
+        "calculation"
+    ],
     "creators": [
     {
-      "affiliation": "",
-      "name": "Giessmann, Robert T.",
-      "orcid": "0000-0002-0254-1500"
+        "affiliation": "",
+        "name": "Giessmann, Robert T.",
+        "orcid": "0000-0002-0254-1500"
     }
     ],
-    "keywords": [
-      "error propagation",
-      "uncertainty",
-      "equilibrium constant",
-      "measurement",
-      "calculation",
-  ],
+    "access_right": "open", 
+    "resource_type": {
+        "subtype": "workingpaper", 
+        "type": "publication", 
+        "title": "Working paper"
+    }
 }
