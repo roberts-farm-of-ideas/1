@@ -20,9 +20,5 @@
     }
     ],
     "access_right": "open", 
-    "resource_type": {
-        "subtype": "workingpaper", 
-        "type": "publication", 
-        "title": "Working paper"
-    }
+    "uploadtype": "workingpaper"
 }
