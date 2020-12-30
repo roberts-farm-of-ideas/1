@@ -20,5 +20,6 @@
     }
     ],
     "access_right": "open", 
-    "upload_type": "publication"
+    "upload_type": "publication",
+    "publication_type": "workingpaper"
 }
