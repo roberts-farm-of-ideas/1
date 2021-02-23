@@ -1,6 +1,6 @@
 # Robert's Farm of Ideas: 1
 
-[![DOI](https://zenodo.org/badge/324523777.svg)](https://zenodo.org/badge/latestdoi/324523777)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4394210.svg)](https://doi.org/10.5281/zenodo.4394210)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in 152 characters
