@@ -1,9 +1,9 @@
-# Robert's Farm of Ideas: 1
+# Robert's Farm of Ideas: 1 -- Error propagation in equilibrium constants
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4394210.svg)](https://doi.org/10.5281/zenodo.4394210)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## This idea in 152 characters
+## This idea in short
 When determining equilibrium constants of multi-substrate / multi-product reactions, their ratios may affect the uncertainty of the result.
 
 This is because usually the conversion of one pair is measured. This conversion has usually a constant error, which propagates into errors of different magnitude depending on the ratios of reactants. 
